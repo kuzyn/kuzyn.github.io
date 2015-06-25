@@ -5,18 +5,21 @@ layout: default
 <div class="home">
 
   <ul class="post-list">
+  <div class="page-content">
+    <div class="wrapper">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+        <span class="post-meta">{{ post.date | date_to_string }}</span>
         <h1>{{ post.title }}</h1>
         <div class="post">
           <article class="post-content">
-          {{ post.content }}
+          {{ post.content | markdownify }}
           </article>
         </div>
       </li>
     {% endfor %}
+    </div>
+    </div>
   </ul>
 
 </div>
