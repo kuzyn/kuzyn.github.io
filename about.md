@@ -4,6 +4,6 @@ title: more
 permalink: /more/
 ---
 
-This is where [I](http://samuelcousin.com) write stuff. 
+{{ site.description }}
 
-Reach out at [hello@samuelcousin.com](hello@samuelcousin.com)
+Reach out at <a href="mailto:{{ site.email }}">{{ site.email }}</a>
