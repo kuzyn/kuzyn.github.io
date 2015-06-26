@@ -2,7 +2,7 @@
 title: bubbles.
 email: hello@samuelcousin.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is where [I](http://samuelcousin.com) write stuff. 
+  This is where [I](http://samuelcousin.com) write stuff. &copy; all mine.
 url: "http://joshuasnowball.github.io" # the base hostname & protocol for your site
 twitter_username: samuelkuzyn
 github_username:  joshuasnowball
