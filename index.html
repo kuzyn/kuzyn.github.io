@@ -10,9 +10,11 @@ layout: default
         <span class="post-meta">{{ post.date | date_to_string }}</span>
         <h1>{{ post.title }}</h1>
         <div class="post">
+          <h3>  
           <article class="post-content">
           {{ post.content }}
           </article>
+          </h3>
         </div>
       </li>
     {% endfor %}
