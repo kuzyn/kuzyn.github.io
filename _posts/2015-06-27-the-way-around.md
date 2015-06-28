@@ -1,6 +1,6 @@
 ---
-tag: 'berlin, drinking, gambling'
-category: poem
+tags: 'berlin, drinking, gambling'
+category: 'poem'
 title: 'the way around'
 date: '2015-06-27 21:42:28 UTC'
 ---
