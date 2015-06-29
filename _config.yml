@@ -1,8 +1,8 @@
 # Site settings
-title: bubbles.
+title: crackdown at the funyard.
 email: hello@samuelcousin.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is where [I](http://samuelcousin.com) write stuff. &copy; all mine.
+  This is where [I](http://samuelcousin.com) write stuff.
 url: "http://joshuasnowball.github.io" # the base hostname & protocol for your site
 twitter_username: samuelkuzyn
 github_username:  joshuasnowball
