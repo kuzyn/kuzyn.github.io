@@ -17,7 +17,7 @@ does it matter what my friend said?
 
 i stare and smile,\\
 faith motives:\\
-i lived with a woman so tight\\
-that even in sleep i could not dream\\
+i loved a woman so tight\\
+that even in sleep i could not dream
 
 i ask questions when no one's looking
