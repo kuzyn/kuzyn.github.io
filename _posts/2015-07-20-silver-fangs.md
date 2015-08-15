@@ -6,15 +6,15 @@ date: '2015-07-20 04:42:29 UTC'
 ---
 
 i though of that summer\\
-my first real summer of nghts\\
+my first real summer of nights\\
 and I thought of her and her small tits\\
 how short she was\\
+how black her hair was\\
 how blue her eyes were\\
-how black her hair were\\
 the face she made when she came\\
 the sounds she held inside before coming\\
 her fucking tight body\\
-her perfect teeth, the two canine protruding\\
+her perfect teeth, the two canines protruding\\
 like a real thing yeah\\
 we got close\\
 we got warm\\
