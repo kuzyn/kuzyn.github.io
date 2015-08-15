@@ -19,7 +19,7 @@ like a real thing yeah\\
 we got close\\
 we got warm\\
 she was nice to me\\
-it was fun for both of us\\
+it was fun for both of us
 
 she loved the paper, how red it was on the side\\
 we'd get drunk on zubrowska\\
